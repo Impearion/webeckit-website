@@ -28,5 +28,5 @@ Design, Entwicklung und ausarbeitung einer SEO Strategie für eine Verkaufswebse
 
 
 > [!IMPORTANT]
-> **Das Proposal** [Proposal](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/EducationHub.md)  
+> **Das Proposal** [Proposal](https://github.com/Impearion/webeckit-website/blob/main/notes/Proposal.md)
 > **Designvortschritt** [Designs](https://github.com/IxI-Enki/education-hub/blob/main/Notes_Project-Proposal/eduHub_HELL.jpg)  
