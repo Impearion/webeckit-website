@@ -29,4 +29,5 @@ Design, Entwicklung und ausarbeitung einer SEO Strategie für eine Verkaufswebse
 
 > [!IMPORTANT]
 > **Das Proposal** [Proposal](https://github.com/Impearion/webeckit-website/blob/main/notes/Proposal.md)
+> 
 > **Designvortschritt** [Designs](https://www.figma.com/proto/pphfURlDFUsYEugitqtr00/WeBeckIT?page-id=2%3A2&type=design&node-id=193-7&viewport=-1311%2C166%2C0.18&t=mksbUv3SGvWPXJmR-1&scaling=min-zoom&starting-point-node-id=193%3A7&mode=design)  
